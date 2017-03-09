@@ -2,5 +2,67 @@ body {
     background-color: #EEEEEE;
 }
 
+.navigationBar{
+    text-align: center;
+    font-weight: bold;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+#orgs {
+        border: 0px solid #444;
+        height: 177px;
+        
+        text-align: justify;
+        -ms-text-justify: distribute-all-lines;
+        text-justify: distribute-all-lines;
+        
+    }
+    
+    .box1, .box2, .box3, .box4 {
+        width: 145px;
+        height: 173px;
+        vertical-align: top;
+        display: inline-block;
+        *display: inline;
+        zoom: 1
+    }
+    .stretch {
+        width: 100%;
+        display: inline-block;
+        font-size: 0;
+        line-height: 0
+    }
+
+.footer{
+  background-color: #808080;
+  text-align: right;
+  color: white;
+}
+
 ul{display:block;width:100%;margin:0;padding:0}
 ul li{display:block;width:13%;margin:0;padding:0;text-align:center;float:left}
+
+.logo {
+    width: 150px;
+    height: 120px;
+    content: src = "images/logo.jpg";
+}
+
+.logoHeader {
+    height: 120px;
+    vertical-align: middle;
+    text-align: center; 
+    font-size: 4em;
+}
+
+.floatLeft { float: left; }
+
+.floatRight { float: right; }
