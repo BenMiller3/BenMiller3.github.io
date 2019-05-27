@@ -322,7 +322,7 @@ var fieldOrd = 0;
 var colourOrd = 0;
 
 //Introductory Screen
-var playIntro = true;
+var playIntro = false;
 var jab = 0;
 var tub = 0;
 
