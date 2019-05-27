@@ -329,10 +329,8 @@ var tub = 0;
 //New country tournament entry
 var chubby = false;
 
-
-function setup() {
- //load Images
- field = loadImage("pwt/field.png");
+function preload() {
+field = loadImage("pwt/field.png");
  Germany = loadImage("pwt/germany.png");
  Italy = loadImage("pwt/italy.png");
  Spain = loadImage("pwt/spain.png");
@@ -493,10 +491,9 @@ function setup() {
  menuSound = loadSound('pwt/woosh.wav'); 
  gameOverWinSound = loadSound('pwt/winSound.wav');
  itemBoughtSound = loadSound('pwt/cashSound.wav');
- 
- normalGameMusic = loadSound('pwt/gameMusic.mp3');
+}
 
- 
+function setup() {
  //Set Screen createCanvas
  createCanvas(650, 500);
 }
