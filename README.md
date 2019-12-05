@@ -1,2 +1,2 @@
-# BenMiller3.github.io
-My personal Resume website
+# Ben Miller Portfolio Website
+My portfoliio website, made with Javascript, HTML and CSS: https://benmiller3.github.io
