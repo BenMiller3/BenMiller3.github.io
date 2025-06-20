@@ -33,3 +33,4 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
 facebook.com, 363119886894045, DIRECT, c3e20eee3f780d68
+facebook.com, 363119886894045, DIRECT, c3e20eee3f780d68
