@@ -1,6 +1,7 @@
 google.com, pub-8753462308649653, DIRECT, f08c47fec0942fa0
 google.com, pub-5330048988337090, DIRECT, f08c47fec0942fa0
 applovin.com, 46682cf56d2ff62f0552798f257b8692, DIRECT
+vungle.com, 685179cb845d780011b17200, DIRECT, c107d686becd2d77
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
